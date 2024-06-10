@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Documentation",
   "logo": {
     "dark": "https://framerusercontent.com/images/qZYO6NCjjVZEtBtZn7iHdHllyE.png?scale-down-to=512",
     "light": "https://framerusercontent.com/images/qZYO6NCjjVZEtBtZn7iHdHllyE.png?scale-down-to=512"
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:contact@outcall.app"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Back To Dashboard",
+    "url": "https://panel.outcall.app"
   },
   "tabs": [
     {
@@ -33,20 +33,16 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentation (Coming Soon)",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://panel.outcall.app/docs"
     },
     {
-      "name": "Community",
+      "name": "Community (Coming Soon)",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://panel.outcall.app/community"
     },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
+
   ],
   "navigation": [
     {
@@ -84,8 +80,6 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/mintlify"
   }
 }
